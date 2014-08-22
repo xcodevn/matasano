@@ -1,0 +1,9 @@
+[package]
+
+name = "set3"
+version = "0.0.1"
+authors = ["Thông Nguyễn <xcodevn@gmail.com>"]
+
+[dependencies.rust-crypto]
+
+git = "https://github.com/DaGenix/rust-crypto"
